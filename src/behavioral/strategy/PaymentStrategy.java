@@ -1,5 +1,5 @@
 package behavioral.strategy;
 
-public interface Strategy {
+public interface PaymentStrategy {
     void pay(int amount);
 }
