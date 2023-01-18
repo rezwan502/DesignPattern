@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package behavioral.strategy.Exampe_1;
 
 public class PaymentService {
     private PaymentStrategy strategy;
